@@ -6,7 +6,7 @@ podczas pobierania pakietów z repozytorium. Lista jest pobierana
 samodzielnie przez skrypt, lub może zostać podana jako parametr pozycyjny. 
 
 ## Użycie:
-1) `git clone https://git.morketsmerke.net/xf0r3m/FastestOpenBSDMirror.git`
+1) `git clone https://github.com/xf0r3m/FastestOpenBSDMirror.git`
 
 2) `chmod +x FastestOpenBSDMirror/fastMirror.sh`
 
